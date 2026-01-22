@@ -45,6 +45,7 @@ Use a free hosting service, so you don't need to spend any money for this challe
 * Implement complex animation
 * Using semantic HTML
 * Implement Modern State Management (Zustand)
+* Implement validation payload request (Zod)
 * Implement concept caching using Tanstack Query
 
 # 🌐📱 Multiplatform Challenge (Flutter)
